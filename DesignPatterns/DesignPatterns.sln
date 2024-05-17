@@ -9,27 +9,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{81B03039-B83D-4706-B645-CC16AC639937}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Observer", "DS.Observer\DS.Observer.csproj", "{1B2D7D2F-C5A6-4F92-BF8A-BFD508A4064A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Observer", "Behavioral\DS.Observer\DS.Observer.csproj", "{1B2D7D2F-C5A6-4F92-BF8A-BFD508A4064A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Command", "DS.Command\DS.Command.csproj", "{CE5CBD3C-F161-466F-BEE2-FB0D3D5B7868}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Command", "Behavioral\DS.Command\DS.Command.csproj", "{CE5CBD3C-F161-466F-BEE2-FB0D3D5B7868}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Strategy", "DS.Strategy\DS.Strategy.csproj", "{F3CBA58B-19F2-440A-B516-75967627AAA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Strategy", "Behavioral\DS.Strategy\DS.Strategy.csproj", "{F3CBA58B-19F2-440A-B516-75967627AAA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Adapter", "DS.Adapter\DS.Adapter.csproj", "{F3A07E8E-DAF6-4F71-9872-97850E90D65E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Adapter", "Structural\DS.Adapter\DS.Adapter.csproj", "{F3A07E8E-DAF6-4F71-9872-97850E90D65E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Decorator", "DS.Decorator\DS.Decorator.csproj", "{00784F38-B7DD-4069-AD2C-87A57FF86B5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Decorator", "Structural\DS.Decorator\DS.Decorator.csproj", "{00784F38-B7DD-4069-AD2C-87A57FF86B5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Facade", "DS.Facade\DS.Facade.csproj", "{190B4B17-D280-40BA-991E-884D88C55F1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Facade", "Structural\DS.Facade\DS.Facade.csproj", "{190B4B17-D280-40BA-991E-884D88C55F1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Bridge", "DS.Bridge\DS.Bridge.csproj", "{B36F4DF2-B3BF-47B4-9155-AB544487A1A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Bridge", "Structural\DS.Bridge\DS.Bridge.csproj", "{B36F4DF2-B3BF-47B4-9155-AB544487A1A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Singleton", "DS.Singleton\DS.Singleton.csproj", "{49D12B98-C7E8-4BC5-8E5F-E84242438E3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Singleton", "Creational\DS.Singleton\DS.Singleton.csproj", "{49D12B98-C7E8-4BC5-8E5F-E84242438E3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Factory", "DS.Factory\DS.Factory.csproj", "{36A996BE-4502-43B9-AEB1-4225A280AB76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Factory", "Creational\DS.Factory\DS.Factory.csproj", "{36A996BE-4502-43B9-AEB1-4225A280AB76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Builder", "DS.Builder\DS.Builder.csproj", "{62DA7C30-DF02-4136-A638-331AE628D0B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Builder", "Creational\DS.Builder\DS.Builder.csproj", "{62DA7C30-DF02-4136-A638-331AE628D0B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Mediator", "DS.Mediator\DS.Mediator.csproj", "{4D040B26-F10C-41FD-959B-B44D146CC17E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Mediator", "Behavioral\DS.Mediator\DS.Mediator.csproj", "{4D040B26-F10C-41FD-959B-B44D146CC17E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
