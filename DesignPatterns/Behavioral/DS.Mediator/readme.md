@@ -1,3 +1,3 @@
 # Purpose
 
-Ensure that a cass only has one instance.
+Reduce chaotic dependencies. It restricts direct communication between objects and forces them to collaborate through the mediator.
